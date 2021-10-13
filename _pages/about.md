@@ -14,6 +14,11 @@ I am Ziyu Jiang, a PhD. Student at VITA Group [[link](https://vita-group.github.
 
 Publication
 ------------
+<b>Ziyu Jiang </b>, Tianlong Chen, Ting Chen, Zhangyang Wang. 
+Improving Contrastive Learning onImbalanced Data via Open-World Sampling.
+*Advances in Neural Information Processing Systems* (Neurips).
+2021.
+
 <b>Ziyu Jiang </b>, Tianlong Chen, Bobak Mortazavi, Zhangyang Wang.
 Self-Damaging Contrastive Learning.
 *International conference on machine learning* (ICML).
