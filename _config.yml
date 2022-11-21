@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziyu Jiang"
+  name             : "   Ziyu Jiang (蒋子宇)"
   avatar           : "profile.jpg"
-  bio              : "Welcome to My Homepage"
+  bio              :
   location         : "Texas A & M University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,7 @@ redirect_from:
 <head>
     <link href="../css_files_about/bootstrap.min.css" rel="stylesheet">
     <link href="../css_files_about/css" rel="stylesheet">
+    <link href="../css_files_about/my.css" rel="stylesheet">
     <link href="../css_files_about/fontawesome.css" rel="stylesheet">
     <link href="../css_files_about/solid.css" rel="stylesheet">
     <link href="../css_files_about/brands.css" rel="stylesheet">
@@ -23,12 +24,34 @@ About Me
 -----------
 I am Ziyu Jiang, a PhD. Student at VITA Group [[link](https://vita-group.github.io/index.html)]. My current research focuses on Semantic Segmentation, Self-supervised learning and Efficient Training.
 
-Publication
+Selected Publications
 ------------
 <div class="sec-wrapper pub-wrapper" id="pub">
     <div class="container-fluid" id="main-pub-container">
         <div id="main-pub-card-container" class="">
-            <div class="pub-card" data-topic="3D-Vision" data-year="2022" data-selected="true">
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <img src="../paper_images/Neurips2022_BackRazor.png" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                Back Razor: Memory-Efficient Transfer Learning by Self-Sparsified Backpropogation 
+                            </a>
+                        </div>
+                        <div class="authors">
+                            <me>Ziyu Jiang*</me>, Xuxi Chen*, Xueqin Huang, Xianzhi Du, Denny Zhou, Zhangyang Wang
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2022</i></a></div>
+                        <a href="https://openreview.net/forum?id=mTXQIpXPDbh">[Paper]</a>
+                        <a href="https://github.com/VITA-Group/BackRazor_Neurips22">[Code]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
                 <div class="row align-items-center section-item">
                     <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
                         <div class="figure">
@@ -38,15 +61,169 @@ Publication
                     <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
                         <div class="title">
                             <a>
-                                M3ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design
+                                M<sup>3</sup>ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design 
                             </a>
                         </div>
                         <div class="authors">
-                            H. Liang, Z. Fan, R. Sarkar, <me>Z. Jiang</me>, T. Chen, K. Zou, Y. Cheng, C. Hao, and Z. Wang
+                            Hanxue Liang*, Zhiwen Fan*, Rishov Sarkar, <me>Ziyu Jiang</me>, Tianlong Chen, Kai Zou, Yu Cheng, Cong Hao, and Zhangyang Wang
                         </div>
-                        <div><a style="font-size: 14px; font-weight: bold"><i>arxiv preprint</i></a></div>
-                        <a href="https://arxiv.org/pdf/2211.09682.pdf">[Paper]</a>
-                        <a href="https://yifanjiang.net/alignerf">[Project Page]</a>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2022</i></a></div>
+                        <a href="https://arxiv.org/pdf/2210.14793.pdf">[Paper]</a>
+                        <a href="https://github.com/VITA-Group/M3ViT">[Code]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <img src="../paper_images/ECCV2022_DnA.png" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                DnA: Improving Few-shot Transfer Learning with Low-Rank Decomposition and Alignment 
+                            </a>
+                        </div>
+                        <div class="authors">
+                            <me>Ziyu Jiang</me>, Tianlong Chen, Xuxi Chen, Yu Cheng, Luowei Zhou, Lu Yuan, Ahmed Awadallah, Zhangyang Wang
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>ECCV 2022</i></a></div>
+                        <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800229.pdf">[Paper]</a>
+                        <a href="https://github.com/VITA-Group/DnA">[Code]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <img src="../paper_images/Neruips2021_MAK.png" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                Improving Contrastive Learning onImbalanced Data via Open-World Sampling 
+                            </a>
+                        </div>
+                        <div class="authors">
+                            <me>Ziyu Jiang</me>, Tianlong Chen, Ting Chen, Zhangyang Wang
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2021</i></a></div>
+                        <a href="https://proceedings.neurips.cc/paper/2021/file/2f37d10131f2a483a8dd005b3d14b0d9-Paper.pdf">[Paper]</a>
+                        <a href="https://github.com/VITA-Group/MAK">[Code]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <img src="../paper_images/SDCLR.png" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                Self-Damaging Contrastive Learning 
+                            </a>
+                        </div>
+                        <div class="authors">
+                            <me>Ziyu Jiang</me>, Tianlong Chen, Bobak Mortazavi, Zhangyang Wang
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>ICML 2021</i></a></div>
+                        <a href="https://arxiv.org/abs/2106.02990">[Paper]</a>
+                        <a href="https://github.com/VITA-Group/SDCLR">[Code]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <img src="../paper_images/Neurips2020_ACL.png" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                Robust Pre-Training by Adversarial Contrastive Learning 
+                            </a>
+                        </div>
+                        <div class="authors">
+                            <me>Ziyu Jiang</me>, Tianlong Chen, Ting Chen, Zhangyang Wang
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2020</i></a></div>
+                        <a href="https://proceedings.neurips.cc/paper/2020/file/ba7e36c43aff315c00ec2b8625e3b719-Paper.pdf">[Paper]</a>
+                        <a href="https://github.com/VITA-Group/Adversarial-Contrastive-Learning">[Code]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <img src="../paper_images/CVPR2020_peek_a_boo.png" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations 
+                            </a>
+                        </div>
+                        <div class="authors">
+                            <me>Ziyu Jiang</me>, Buyu Liu, Samuel Schulter, Zhangyang Wang, Manmohan Chandraker
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>CVPR 2020 (ORAL)</i></a></div>
+                        <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Peek-a-Boo_Occlusion_Reasoning_in_Indoor_Scenes_With_Plane_Representations_CVPR_2020_paper.pdf">[Paper]</a>
+                        <a href="https://www.nec-labs.com/research/media-analytics/projects/peek-a-boo-occlusion-reasoning-in-indoor-scenes-with-plane-representations/">[Project Page]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <img src="../paper_images/Neurips2019_E2train.png" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                E<sup>2</sup>-Train: Training State-of-the-art CNNs with Over 80% Less Energy
+                            </a>
+                        </div>
+                        <div class="authors">
+                            Yue Wang*, <me>Ziyu Jiang*</me>, Xiaohan Chen*, Pengfei Xu, Yang Zhao, Yingyan Lin, Zhangyang Wang
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2019</i></a></div>
+                        <a href="https://proceedings.neurips.cc/paper/2019/file/663772ea088360f95bac3dc7ffb841be-Paper.pdf">[Paper]</a>
+                        <a href="https://github.com/GATECH-EIC/E2Train">[Code]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <img src="../paper_images/CVPR2019_GLNet.png" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images
+                            </a>
+                        </div>
+                        <div class="authors">
+                            Wuyang Chen*, <me>Ziyu Jiang*</me>, Zhangyang Wang, Kexin Cui, Xiaoning Qian
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>CVPR 2019 (ORAL)</i></a></div>
+                        <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Collaborative_Global-Local_Networks_for_Memory-Efficient_Segmentation_of_Ultra-High_Resolution_Images_CVPR_2019_paper.pdf">[Paper]</a>
+                        <a href="https://github.com/VITA-Group/GLNet">[Code]</a>
                     </div>
                 </div>
             </div>
@@ -54,41 +231,6 @@ Publication
     </div>
 </div>
 
-
-
-<b>Ziyu Jiang </b>, Tianlong Chen, Ting Chen, Zhangyang Wang.
-Improving Contrastive Learning onImbalanced Data via Open-World Sampling.
-*Advances in Neural Information Processing Systems* (Neurips). 2021.
-
-<b>Ziyu Jiang </b>, Tianlong Chen, Bobak Mortazavi, Zhangyang Wang.
-Self-Damaging Contrastive Learning.
-*International conference on machine learning* (ICML). 2021.
-
-<b>Ziyu Jiang </b>, Zhenhua He, Xueqin Huang, Zibin Yang, Pearl Tan. CE-PeopleSeg: Real-time
-people segmentation with 10% CPU usage for video conference. 2021 IEEE/CVF Conference on
-Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE, 2021
-
-<b>Ziyu Jiang </b>, Tianlong Chen, Ting Chen, Zhangyang Wang. 
-Robust Pre-Training by Adversarial Contrastive Learning.
-*Advances in Neural Information Processing Systems* (Neurips). 2020.
-
-<b>Ziyu Jiang </b>, Buyu Liu, Samuel Schulter, Zhangyang Wang, Manmohan Chandraker. 
-Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations.
-Proceedings of the IEEE Conference on *Computer Vision and Pattern Recognition* (CVPR). 2020 (ORAL).
-
-<b>Ziyu Jiang* </b>, Yue Wang*, Xiaohan Chen*, Pengfei Xu, Yang Zhao, Yingyan Lin, Zhangyang Wang. 
-E$^2$-Train: Training State-of-the-art CNNs with Over 80\% Less Energy.
-*Advances in Neural Information Processing Systems* (Neurips). 2019.
-
-<b>Ziyu Jiang* </b>, Wuyang Chen* , Zhangyang Wang, Kexin Cui, Xiaoning Qian. Collaborative
-Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images.
-Proceedings of the IEEE Conference on *Computer Vision and Pattern Recognition* (CVPR). 2019 (ORAL).
-
-<b>Ziyu Jiang</b>, Kate Von Ness, Julie Loisel, Zhangyang Wang. ArcticNet: A Deep Learning
-Solution to Classify Arctic Wetlands. 2019 IEEE/CVF Conference on *Computer Vision and
-Pattern Recognition Workshops* (CVPRW). IEEE, 2019.
-
-<b>Ziyu Jiang* </b>, Randy Ardywibowo*, Aven Samereh, Heather Evans, Bill Lober, Xiangyu Chang, Xiaoning Qian, Zhangyang Wang, Shuai Huang. A Roadmap for Automatic Surgical Site Infection (SSI) Detection and Evaluation using User-Generated Wound Images. *Surgical infections* (2019).
 
 Professional Experience
 -----------
