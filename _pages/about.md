@@ -21,7 +21,11 @@ redirect_from:
 
 About Me
 -----------
-I am Ziyu Jiang, a PhD. Student at VITA Group [[link](https://vita-group.github.io/index.html)]. My current research focuses on Semantic Segmentation, Self-supervised learning and Efficient Training.
+I am Ziyu Jiang, a last year Ph.D. student at VITA Group [[link](https://vita-group.github.io/index.html)] supervised by Prof. Zhangyang Wang. 
+My research interests lie in Self-Supervised (SS) Learning, Efficient Training, Indoor Scene Occlusion Reasoning, etc. 
+Self-Supervised (SS) learning is my main interest, my works improve the robustness (towards imbalancedness) and practicality (adversarial training; transferability) of SS,  which were published on Neurips 2020, ICML 2021, Neurips 2021, and ECCV 2022. 
+For Efficient Training. I also contributes to improving the efficiency of training deep networks in terms of energy cost (Neurips 2020) and memory footprint (Neurips 2022). 
+Besides, I explored the 3D vision topics like indoor scene occlusion reasoning, which was published at CVPR 2020 as an ORAL.
 
 Selected Publications
 ------------
