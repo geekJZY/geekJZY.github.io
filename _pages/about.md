@@ -9,8 +9,8 @@ redirect_from:
 ---
 <head>
     <link href="../css_files_about/bootstrap.min.css" rel="stylesheet">
-    <link href="../css_files_about/css" rel="stylesheet">
     <link href="../css_files_about/my.css" rel="stylesheet">
+    <link href="../css_files_about/fontawesome.css" rel="stylesheet">
     <link href="../css_files_about/solid.css" rel="stylesheet">
     <link href="../css_files_about/brands.css" rel="stylesheet">
     <link href="../css_files_about/academicons.min.css" rel="stylesheet">
