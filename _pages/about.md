@@ -32,9 +32,7 @@ Publication
                 <div class="row align-items-center section-item">
                     <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
                         <div class="figure">
-                            <a href="https://arxiv.org/pdf/2211.09682.pdf">
                                 <img src="../paper_images/NIPS22_MOE_1.png" width="18%"></img>
-                            </a>
                         </div>
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
@@ -56,18 +54,6 @@ Publication
     </div>
 </div>
 
-
-[//]: # (<h4 id="2022"><a href="#2022" class="headerlink" title="2022"></a>2022</h4><p>)
-
-[//]: # (<img src = "../paper_images/NIPS22_MOE_1.png" align = "left" width="18%" hight="18%"> )
-
-[//]: # (M3ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design)
-
-[//]: # (<br>H. Liang, Z. Fan, R. Sarkar, <strong>Z. Jiang</strong>, T. Chen, K. Zou, Y. Cheng, C. Hao, and Z. Wang.)
-
-[//]: # (<br> <strong>NeurIPS 2022</strong> )
-
-[//]: # (<br> [<a href="https://arxiv.org/pdf/2210.14793.pdf">Paper</a>] [<a href="https://github.com/VITA-Group/M3ViT" target="_blank" rel="noopener">Code</a>] [<a href="">Abstract</a>]</p>)
 
 
 <b>Ziyu Jiang </b>, Tianlong Chen, Ting Chen, Zhangyang Wang.
