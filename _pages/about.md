@@ -246,19 +246,19 @@ May - August, 2021
 
       Mentors:  Luowei Zhou, Yu Cheng<br/>
       *Research on self-supervised transfer learning*<br/>
-      * Explore self-supervised methods with better few-shot performance via improving both pre-training and fine-tuning.
+      <ul><li style="margin-top: -1rem">Explore self-supervised methods with better few-shot performance via improving both pre-training and fine-tuning.</li></ul>
 
 June - November, 2020
 :   **Research Intern**, *Bytedance AI Lab*, Mountain View, CA
 
       Mentors:  Linjie Yang<br/>
       *Research on video segmentation*<br/>
-      * Explore efficient approach for video segmentation.
+      <ul><li style="margin-top: -1rem">Explore efficient approach for video segmentation.</li></ul>
 
 June - August, 2019
 :   **Research Intern**, *NEC laboratories america inc*, San. Jose, CA
 
       Mentors:  Buyu, Liu<br/>
       *Research on indoor scene understanding*<br/>
-      * Explore better algorithms for semantic segmenation of indoor scene.
+      <ul><li style="margin-top: -1rem">Explore better algorithms for semantic segmenation of indoor scene.</li></ul>
 
