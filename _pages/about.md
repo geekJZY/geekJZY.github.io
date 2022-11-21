@@ -32,7 +32,7 @@ Publication
                 <div class="row align-items-center section-item">
                     <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
                         <div class="figure">
-                                <img src="../paper_images/NIPS22_MOE_1.png" width="18%"></img>
+                                <img src="../paper_images/NIPS22_MOE_1.png" width="18%">
                         </div>
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
