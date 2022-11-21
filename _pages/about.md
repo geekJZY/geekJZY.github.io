@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 <head>
-    <link href="../css_files_about/bootstrap.min.css" rel="stylesheet">
     <link href="../css_files_about/css" rel="stylesheet">
     <link href="../css_files_about/my.css" rel="stylesheet">
     <link href="../css_files_about/fontawesome.css" rel="stylesheet">
@@ -45,8 +44,8 @@ Selected Publications
                             <me>Ziyu Jiang*</me>, Xuxi Chen*, Xueqin Huang, Xianzhi Du, Denny Zhou, Zhangyang Wang
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2022</i></a></div>
-                        <a href="https://openreview.net/forum?id=mTXQIpXPDbh">[Paper]</a>
-                        <a href="https://github.com/VITA-Group/BackRazor_Neurips22">[Code]</a>
+                        <a style="font-size: 14px" href="https://openreview.net/forum?id=mTXQIpXPDbh">[Paper]</a>
+                        <a style="font-size: 14px" href="https://github.com/VITA-Group/BackRazor_Neurips22">[Code]</a>
                     </div>
                 </div>
             </div>
@@ -67,8 +66,8 @@ Selected Publications
                             Hanxue Liang*, Zhiwen Fan*, Rishov Sarkar, <me>Ziyu Jiang</me>, Tianlong Chen, Kai Zou, Yu Cheng, Cong Hao, and Zhangyang Wang
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2022</i></a></div>
-                        <a href="https://arxiv.org/pdf/2210.14793.pdf">[Paper]</a>
-                        <a href="https://github.com/VITA-Group/M3ViT">[Code]</a>
+                        <a style="font-size: 14px" href="https://arxiv.org/pdf/2210.14793.pdf">[Paper]</a>
+                        <a style="font-size: 14px" href="https://github.com/VITA-Group/M3ViT">[Code]</a>
                     </div>
                 </div>
             </div>
@@ -89,8 +88,8 @@ Selected Publications
                             <me>Ziyu Jiang</me>, Tianlong Chen, Xuxi Chen, Yu Cheng, Luowei Zhou, Lu Yuan, Ahmed Awadallah, Zhangyang Wang
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>ECCV 2022</i></a></div>
-                        <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800229.pdf">[Paper]</a>
-                        <a href="https://github.com/VITA-Group/DnA">[Code]</a>
+                        <a style="font-size: 14px" href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800229.pdf">[Paper]</a>
+                        <a style="font-size: 14px" href="https://github.com/VITA-Group/DnA">[Code]</a>
                     </div>
                 </div>
             </div>
@@ -111,8 +110,8 @@ Selected Publications
                             <me>Ziyu Jiang</me>, Tianlong Chen, Ting Chen, Zhangyang Wang
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2021</i></a></div>
-                        <a href="https://proceedings.neurips.cc/paper/2021/file/2f37d10131f2a483a8dd005b3d14b0d9-Paper.pdf">[Paper]</a>
-                        <a href="https://github.com/VITA-Group/MAK">[Code]</a>
+                        <a style="font-size: 14px" href="https://proceedings.neurips.cc/paper/2021/file/2f37d10131f2a483a8dd005b3d14b0d9-Paper.pdf">[Paper]</a>
+                        <a style="font-size: 14px" href="https://github.com/VITA-Group/MAK">[Code]</a>
                     </div>
                 </div>
             </div>
@@ -133,8 +132,8 @@ Selected Publications
                             <me>Ziyu Jiang</me>, Tianlong Chen, Bobak Mortazavi, Zhangyang Wang
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>ICML 2021</i></a></div>
-                        <a href="https://arxiv.org/abs/2106.02990">[Paper]</a>
-                        <a href="https://github.com/VITA-Group/SDCLR">[Code]</a>
+                        <a style="font-size: 14px" href="https://arxiv.org/abs/2106.02990">[Paper]</a>
+                        <a style="font-size: 14px" href="https://github.com/VITA-Group/SDCLR">[Code]</a>
                     </div>
                 </div>
             </div>
@@ -155,8 +154,8 @@ Selected Publications
                             <me>Ziyu Jiang</me>, Tianlong Chen, Ting Chen, Zhangyang Wang
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2020</i></a></div>
-                        <a href="https://proceedings.neurips.cc/paper/2020/file/ba7e36c43aff315c00ec2b8625e3b719-Paper.pdf">[Paper]</a>
-                        <a href="https://github.com/VITA-Group/Adversarial-Contrastive-Learning">[Code]</a>
+                        <a style="font-size: 14px" href="https://proceedings.neurips.cc/paper/2020/file/ba7e36c43aff315c00ec2b8625e3b719-Paper.pdf">[Paper]</a>
+                        <a style="font-size: 14px" href="https://github.com/VITA-Group/Adversarial-Contrastive-Learning">[Code]</a>
                     </div>
                 </div>
             </div>
@@ -177,8 +176,8 @@ Selected Publications
                             <me>Ziyu Jiang</me>, Buyu Liu, Samuel Schulter, Zhangyang Wang, Manmohan Chandraker
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>CVPR 2020 (ORAL)</i></a></div>
-                        <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Peek-a-Boo_Occlusion_Reasoning_in_Indoor_Scenes_With_Plane_Representations_CVPR_2020_paper.pdf">[Paper]</a>
-                        <a href="https://www.nec-labs.com/research/media-analytics/projects/peek-a-boo-occlusion-reasoning-in-indoor-scenes-with-plane-representations/">[Project Page]</a>
+                        <a style="font-size: 14px" href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Peek-a-Boo_Occlusion_Reasoning_in_Indoor_Scenes_With_Plane_Representations_CVPR_2020_paper.pdf">[Paper]</a>
+                        <a style="font-size: 14px" href="https://www.nec-labs.com/research/media-analytics/projects/peek-a-boo-occlusion-reasoning-in-indoor-scenes-with-plane-representations/">[Project Page]</a>
                     </div>
                 </div>
             </div>
@@ -199,8 +198,8 @@ Selected Publications
                             Yue Wang*, <me>Ziyu Jiang*</me>, Xiaohan Chen*, Pengfei Xu, Yang Zhao, Yingyan Lin, Zhangyang Wang
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2019</i></a></div>
-                        <a href="https://proceedings.neurips.cc/paper/2019/file/663772ea088360f95bac3dc7ffb841be-Paper.pdf">[Paper]</a>
-                        <a href="https://github.com/GATECH-EIC/E2Train">[Code]</a>
+                        <a style="font-size: 14px" href="https://proceedings.neurips.cc/paper/2019/file/663772ea088360f95bac3dc7ffb841be-Paper.pdf">[Paper]</a>
+                        <a style="font-size: 14px" href="https://github.com/GATECH-EIC/E2Train">[Code]</a>
                     </div>
                 </div>
             </div>
@@ -221,8 +220,8 @@ Selected Publications
                             Wuyang Chen*, <me>Ziyu Jiang*</me>, Zhangyang Wang, Kexin Cui, Xiaoning Qian
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>CVPR 2019 (ORAL)</i></a></div>
-                        <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Collaborative_Global-Local_Networks_for_Memory-Efficient_Segmentation_of_Ultra-High_Resolution_Images_CVPR_2019_paper.pdf">[Paper]</a>
-                        <a href="https://github.com/VITA-Group/GLNet">[Code]</a>
+                        <a style="font-size: 14px" href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Collaborative_Global-Local_Networks_for_Memory-Efficient_Segmentation_of_Ultra-High_Resolution_Images_CVPR_2019_paper.pdf">[Paper]</a>
+                        <a style="font-size: 14px" href="https://github.com/VITA-Group/GLNet">[Code]</a>
                     </div>
                 </div>
             </div>
