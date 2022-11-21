@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello World!"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Ziyu Jiang"
 description              : &description "personal description"
