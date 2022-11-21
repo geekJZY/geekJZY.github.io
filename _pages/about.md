@@ -16,7 +16,6 @@ redirect_from:
     <link href="../css_files_about/brands.css" rel="stylesheet">
     <link href="../css_files_about/academicons.min.css" rel="stylesheet">
     <link href="../css_files_about/style.css" rel="stylesheet">
-    <link href="../css_files_about/font.css" rel="stylesheet">
 </head>
 
 
@@ -234,12 +233,20 @@ Selected Publications
 
 Professional Experience
 -----------
+May - August, 2022
+:   **Research Intern**, *Microsoft*, Redmond, WA
+
+      Mentors:  Yinpeng Chen<br/>
+      *Research on self-supervised pre-training*<br/>
+      * Explore self-supervised methods that can combine the benefits of both Mask Image Modeling (MIM) and Contrastive Learning (CL).
+
+
 May - August, 2021
 :   **Research Intern**, *Microsoft*, Redmond, WA
 
-      Mentors:  Zhe Gan<br/>
-      *Research on video segmentation*<br/>
-      * Explore efficient approach for video segmentation.
+      Mentors:  Luowei Zhou, Yu Cheng<br/>
+      *Research on self-supervised transfer learning*<br/>
+      * Explore self-supervised methods with better few-shot performance via improving both pre-training and fine-tuning.
 
 June - November, 2020
 :   **Research Intern**, *Bytedance AI Lab*, Mountain View, CA
