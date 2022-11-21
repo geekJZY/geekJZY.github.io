@@ -195,7 +195,8 @@ nav {
 }
 
 .pub-wrapper .authors {
-    color: var(--light-gray)
+    color: var(--light-gray);
+    font-size: 14px
 }
 
 .pub-wrapper .authors a {

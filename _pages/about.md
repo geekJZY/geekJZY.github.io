@@ -63,9 +63,9 @@ Selected Publications
                                 M<sup>3</sup>ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design 
                             </a>
                         </div>
-                            <div class="authors">
-                                <a style="font-size: 14px"> Hanxue Liang*, Zhiwen Fan*, Rishov Sarkar, <me>Ziyu Jiang</me>, Tianlong Chen, Kai Zou, Yu Cheng, Cong Hao, and Zhangyang Wang</a>
-                            </div>
+                        <div class="authors">
+                            Hanxue Liang*, Zhiwen Fan*, Rishov Sarkar, <me>Ziyu Jiang</me>, Tianlong Chen, Kai Zou, Yu Cheng, Cong Hao, and Zhangyang Wang
+                        </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2022</i></a></div>
                         <a href="https://arxiv.org/pdf/2210.14793.pdf">[Paper]</a>
                         <a href="https://github.com/VITA-Group/M3ViT">[Code]</a>
