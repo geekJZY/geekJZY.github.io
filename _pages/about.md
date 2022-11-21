@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 <head>
+    <link href="../css_files_about/bootstrap.min.css" rel="stylesheet">
     <link href="../css_files_about/css" rel="stylesheet">
     <link href="../css_files_about/my.css" rel="stylesheet">
     <link href="../css_files_about/fontawesome.css" rel="stylesheet">
