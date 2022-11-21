@@ -238,7 +238,7 @@ May - August, 2022
 
       Mentors:  Yinpeng Chen<br/>
       *Research on self-supervised pre-training*<br/>
-      <li style="margin-top: -1rem">Explore self-supervised methods that can combine the benefits of both Mask Image Modeling (MIM) and Contrastive Learning (CL).</li>
+      <ul><li style="margin-top: -1rem">Explore self-supervised methods that can combine the benefits of both Mask Image Modeling (MIM) and Contrastive Learning (CL).</li></ul>
 
 
 May - August, 2021
