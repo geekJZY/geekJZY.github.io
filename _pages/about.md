@@ -36,6 +36,27 @@ Selected Publications
                 <div class="row align-items-center section-item">
                     <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
                         <div class="figure">
+                                <img src="../paper_images/ICLR2023_layerGraftedPretraining.png" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Better Representations
+                            </a>
+                        </div>
+                        <div class="authors">
+                            <me>Ziyu Jiang</me>, Yinpeng Chen, Mengchen Liu, Dongdong Chen, Xiyang Dai, Lu Yuan, Zicheng Liu, Zhangyang Wang
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>ICLR 2023</i></a></div>
+                        <a style="font-size: 14px" href="https://openreview.net/forum?id=jwdqNwyREyh">[Paper]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
                                 <img src="../paper_images/Neurips2022_BackRazor.png" width="18%">
                         </div>
                     </div>
