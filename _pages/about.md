@@ -21,11 +21,9 @@ redirect_from:
 
 About Me
 -----------
-I am Ziyu Jiang, a last year Ph.D. student at VITA Group [[link](https://vita-group.github.io/index.html)] supervised by Prof. Zhangyang Wang. 
-My research interests lie in Self-Supervised (SS) Learning, Efficient Training, Indoor Scene Occlusion Reasoning, etc. 
-Self-Supervised (SS) learning is my main interest, my works improve the robustness (towards imbalancedness) and practicality (adversarial training; transferability) of SS,  which were published on Neurips 2020, ICML 2021, Neurips 2021, and ECCV 2022. 
-For Efficient Training. I also contributes to improving the efficiency of training deep networks in terms of energy cost (Neurips 2020) and memory footprint (Neurips 2022). 
-Besides, I explored the 3D vision topics like indoor scene occlusion reasoning, which was published at CVPR 2020 as an ORAL.
+I am a researcher at NEC America Lab. Previously, I was a Ph.D. student at Texas A&M University supervised by Prof. Zhangyang Wang. My research interests lie in Self-Supervised (SS) Learning, Efficient Training, Indoor Scene Occlusion Reasoning, etc. His works are published at various top conferences such as NeurIPS, ICML, ICLR, CVPR, and ECCV. 
+
+I am hiring summer interns ([job link](http://tinyurl.com/yc6cdhn6)). The topic would be 3D simulation or generation. Welcome to email me with your CV if you are interested.
 
 Selected Publications
 ------------
@@ -50,6 +48,7 @@ Selected Publications
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>ICLR 2023</i></a></div>
                         <a style="font-size: 14px" href="https://openreview.net/forum?id=jwdqNwyREyh">[Paper]</a>
+                        <a style="font-size: 14px" href="https://github.com/VITA-Group/layerGraftedPretraining_ICLR23">[Code]</a>
                     </div>
                 </div>
             </div>
