@@ -23,8 +23,6 @@ About Me
 -----------
 I am a researcher at NEC America Lab. Previously, I was a Ph.D. student at Texas A&M University supervised by Prof. Zhangyang Wang. My research interests lie in Self-Supervised (SS) Learning, Efficient Training, Indoor Scene Occlusion Reasoning, etc. His works are published at various top conferences such as NeurIPS, ICML, ICLR, CVPR, and ECCV. 
 
-I am hiring summer interns ([job link](http://tinyurl.com/yc6cdhn6)). The topic would be 3D simulation or generation. Welcome to email me with your CV if you are interested.
-
 Selected Publications
 ------------
 <div class="sec-wrapper pub-wrapper" id="pub">
