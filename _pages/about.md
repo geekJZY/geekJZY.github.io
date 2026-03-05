@@ -32,6 +32,93 @@ Selected Publications
                 <div class="row align-items-center section-item">
                     <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
                         <div class="figure">
+                                <video width="18%" autoplay loop muted playsinline>
+                                    <source src="../images/gifs/HorizonForge.mp4" type="video/mp4">
+                                </video>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                HorizonForge: Driving Scene Editing with Any Trajectories and Any Vehicles
+                            </a>
+                        </div>
+                        <div class="authors">
+                            Yifan Wang, Francesco Pittaluga, Zaid Tasneem, Chenyu You, Manmohan Chandraker, <me>Ziyu Jiang</me><sup>†</sup>
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>CVPR 2026</i></a></div>
+                        <a style="font-size: 14px" href="https://horizonforge.github.io/">[Project Page]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <img src="../paper_images/CVPR2026_PhyCo.png" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                PhyCo: Learning Controllable Physical Priors for Generative Motion
+                            </a>
+                        </div>
+                        <div class="authors">
+                            Sriram Narayanan, <me>Ziyu Jiang</me>, Srinivasa Narasimhan, Manmohan Chandraker
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>CVPR 2026</i></a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <video width="18%" autoplay loop muted playsinline>
+                                    <source src="../images/gifs/autoscape_iccv2025.mp4" type="video/mp4">
+                                </video>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                AutoScape: Geometry-Consistent Long-Horizon Scene Generation
+                            </a>
+                        </div>
+                        <div class="authors">
+                            Jiacheng Chen*, <me>Ziyu Jiang</me>*<sup>†</sup>, Mingfu Liang, Bingbing Zhuang, Jong-Chyi Su, Sparsh Garg, Ying Wu, Manmohan Chandraker
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>ICCV 2025</i></a></div>
+                        <a style="font-size: 14px" href="https://jcchen.me/autoscape_page/">[Project Page]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
+                                <img src="../images/gifs/lidarf.gif" width="18%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
+                        <div class="title">
+                            <a>
+                                LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes
+                            </a>
+                        </div>
+                        <div class="authors">
+                            Shanlin Sun, Bingbing Zhuang, <me>Ziyu Jiang</me>, Buyu Liu, Xiaohui Xie, Manmohan Chandraker
+                        </div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>CVPR 2024</i></a></div>
+                        <a style="font-size: 14px" href="https://siwensun.github.io/lidarf-project/">[Project Page]</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pub-card">
+                <div class="row align-items-center section-item">
+                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
+                        <div class="figure">
                                 <img src="../paper_images/ICLR2023_layerGraftedPretraining.png" width="18%">
                         </div>
                     </div>
@@ -69,28 +156,6 @@ Selected Publications
                         <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2022</i></a></div>
                         <a style="font-size: 14px" href="https://openreview.net/forum?id=mTXQIpXPDbh">[Paper]</a>
                         <a style="font-size: 14px" href="https://github.com/VITA-Group/BackRazor_Neurips22">[Code]</a>
-                    </div>
-                </div>
-            </div>
-            <div class="pub-card">
-                <div class="row align-items-center section-item">
-                    <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
-                        <div class="figure">
-                                <img src="../paper_images/NIPS22_MOE_1.png" width="18%">
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
-                        <div class="title">
-                            <a>
-                                M<sup>3</sup>ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design 
-                            </a>
-                        </div>
-                        <div class="authors">
-                            Hanxue Liang*, Zhiwen Fan*, Rishov Sarkar, <me>Ziyu Jiang</me>, Tianlong Chen, Kai Zou, Yu Cheng, Cong Hao, and Zhangyang Wang
-                        </div>
-                        <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2022</i></a></div>
-                        <a style="font-size: 14px" href="https://arxiv.org/pdf/2210.14793.pdf">[Paper]</a>
-                        <a style="font-size: 14px" href="https://github.com/VITA-Group/M3ViT">[Code]</a>
                     </div>
                 </div>
             </div>
