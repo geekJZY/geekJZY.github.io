@@ -32,7 +32,7 @@ Selected Publications
                 <div class="row align-items-center section-item">
                     <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
                         <div class="figure">
-                                <video width="18%" autoplay loop muted playsinline>
+                                <video style="width: 90%;" autoplay loop muted playsinline>
                                     <source src="../images/gifs/HorizonForge.mp4" type="video/mp4">
                                 </video>
                         </div>
@@ -75,7 +75,7 @@ Selected Publications
                 <div class="row align-items-center section-item">
                     <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
                         <div class="figure">
-                                <video width="18%" autoplay loop muted playsinline>
+                                <video style="width: 80%;" autoplay loop muted playsinline>
                                     <source src="../images/gifs/autoscape_iccv2025.mp4" type="video/mp4">
                                 </video>
                         </div>
