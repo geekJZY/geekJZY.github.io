@@ -44,7 +44,7 @@ Selected Publications
                             </a>
                         </div>
                         <div class="authors">
-                            Yifan Wang, Francesco Pittaluga, Zaid Tasneem, Chenyu You, Manmohan Chandraker, <me>Ziyu Jiang</me><sup>†</sup>
+                            Yifan Wang, Francesco Pittaluga, Zaid Tasneem, Chenyu You, Manmohan Chandraker, <me>Ziyu Jiang</me>
                         </div>
                         <div><a style="font-size: 14px; font-weight: bold"><i>CVPR 2026</i></a></div>
                         <a style="font-size: 14px" href="https://horizonforge.github.io/">[Project Page]</a>
