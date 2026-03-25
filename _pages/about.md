@@ -55,7 +55,9 @@ Selected Publications
                 <div class="row align-items-center section-item">
                     <div class="col-xs-12 col-md-3 col-lg-4 col-wrapper">
                         <div class="figure">
-                                <img src="../paper_images/CVPR2026_PhyCo.png" width="18%">
+                                <video style="width: 90%;" autoplay loop muted playsinline>
+                                    <source src="../paper_images/CVPR2026/phyco_fine_control_showcase.mp4" type="video/mp4">
+                                </video>
                         </div>
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">

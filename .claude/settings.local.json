@@ -3,7 +3,8 @@
     "allow": [
       "Bash(cmd.exe /c \"where gem 2>&1 & where ruby 2>&1 & dir C:\\\\Users\\\\jiang\\\\anaconda3\\\\Scripts\\\\gem* 2>&1 & dir C:\\\\Users\\\\jiang\\\\anaconda3\\\\Library\\\\mingw-w64\\\\bin\\\\gem* 2>&1\")",
       "Bash(cmd.exe /c \"C:\\\\Users\\\\jiang\\\\anaconda3\\\\Library\\\\bin\\\\gem install bundler 2>&1\")",
-      "Bash(cmd.exe /c \"C:\\\\Users\\\\jiang\\\\anaconda3\\\\Library\\\\bin\\\\gem install bundler --source http://rubygems.org 2>&1\")"
+      "Bash(cmd.exe /c \"C:\\\\Users\\\\jiang\\\\anaconda3\\\\Library\\\\bin\\\\gem install bundler --source http://rubygems.org 2>&1\")",
+      "Bash(bundle exec:*)"
     ]
   }
 }
