@@ -21,7 +21,7 @@ redirect_from:
 
 About Me
 -----------
-I am a researcher at NEC America Lab. Previously, I was a Ph.D. student at Texas A&M University supervised by Prof. Zhangyang Wang. My research interests lie in Self-Supervised (SS) Learning, Efficient Training, Indoor Scene Occlusion Reasoning, etc. His works are published at various top conferences such as NeurIPS, ICML, ICLR, CVPR, and ECCV. 
+I am a researcher at NEC Laboratories America. I received my Ph.D. from Texas A&M University, where I was advised by Prof. Zhangyang Wang. My research focuses on simulation, world models, embodied AI, diffusion models, and 3D reconstruction. My work has been published at leading venues including NeurIPS, ICML, ICLR, CVPR, and ECCV.
 
 Selected Publications
 ------------
@@ -149,13 +149,13 @@ Selected Publications
                     <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
                         <div class="title">
                             <a>
-                                Back Razor: Memory-Efficient Transfer Learning by Self-Sparsified Backpropogation 
+                                Back Razor: Memory-Efficient Transfer Learning by Self-Sparsified Backpropagation 
                             </a>
                         </div>
                         <div class="authors">
                             <me>Ziyu Jiang*</me>, Xuxi Chen*, Xueqin Huang, Xianzhi Du, Denny Zhou, Zhangyang Wang
                         </div>
-                        <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2022</i></a></div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>NeurIPS 2022</i></a></div>
                         <a style="font-size: 14px" href="https://openreview.net/forum?id=mTXQIpXPDbh">[Paper]</a>
                         <a style="font-size: 14px" href="https://github.com/VITA-Group/BackRazor_Neurips22">[Code]</a>
                     </div>
@@ -193,13 +193,13 @@ Selected Publications
                     <div class="col-xs-12 col-md-9 col-lg-8 col-wrapper">
                         <div class="title">
                             <a>
-                                Improving Contrastive Learning onImbalanced Data via Open-World Sampling 
+                                Improving Contrastive Learning on Imbalanced Data via Open-World Sampling 
                             </a>
                         </div>
                         <div class="authors">
                             <me>Ziyu Jiang</me>, Tianlong Chen, Ting Chen, Zhangyang Wang
                         </div>
-                        <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2021</i></a></div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>NeurIPS 2021</i></a></div>
                         <a style="font-size: 14px" href="https://proceedings.neurips.cc/paper/2021/file/2f37d10131f2a483a8dd005b3d14b0d9-Paper.pdf">[Paper]</a>
                         <a style="font-size: 14px" href="https://github.com/VITA-Group/MAK">[Code]</a>
                     </div>
@@ -243,7 +243,7 @@ Selected Publications
                         <div class="authors">
                             <me>Ziyu Jiang</me>, Tianlong Chen, Ting Chen, Zhangyang Wang
                         </div>
-                        <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2020</i></a></div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>NeurIPS 2020</i></a></div>
                         <a style="font-size: 14px" href="https://proceedings.neurips.cc/paper/2020/file/ba7e36c43aff315c00ec2b8625e3b719-Paper.pdf">[Paper]</a>
                         <a style="font-size: 14px" href="https://github.com/VITA-Group/Adversarial-Contrastive-Learning">[Code]</a>
                     </div>
@@ -287,7 +287,7 @@ Selected Publications
                         <div class="authors">
                             Yue Wang*, <me>Ziyu Jiang*</me>, Xiaohan Chen*, Pengfei Xu, Yang Zhao, Yingyan Lin, Zhangyang Wang
                         </div>
-                        <div><a style="font-size: 14px; font-weight: bold"><i>Neurips 2019</i></a></div>
+                        <div><a style="font-size: 14px; font-weight: bold"><i>NeurIPS 2019</i></a></div>
                         <a style="font-size: 14px" href="https://proceedings.neurips.cc/paper/2019/file/663772ea088360f95bac3dc7ffb841be-Paper.pdf">[Paper]</a>
                         <a style="font-size: 14px" href="https://github.com/GATECH-EIC/E2Train">[Code]</a>
                     </div>
@@ -345,9 +345,9 @@ June - November, 2020
       <ul><li style="margin-top: -1rem">Explore efficient approach for video segmentation.</li></ul>
 
 June - August, 2019
-:   **Research Intern**, *NEC laboratories america inc*, San. Jose, CA
+:   **Research Intern**, *NEC Laboratories America*, San Jose, CA
 
-      Mentors:  Buyu, Liu<br/>
+      Mentors:  Buyu Liu<br/>
       *Research on indoor scene understanding*<br/>
-      <ul><li style="margin-top: -1rem">Explore better algorithms for semantic segmenation of indoor scene.</li></ul>
+      <ul><li style="margin-top: -1rem">Explore better algorithms for semantic segmentation of indoor scene.</li></ul>
 
